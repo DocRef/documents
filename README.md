@@ -1,4 +1,4 @@
-# DocRef - Documents
+# DocRef
 
 ## Links
 ### Paediatrics
