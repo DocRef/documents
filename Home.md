@@ -1,3 +1,1 @@
-Welcome to the documents wiki!
-
-test
+Medical Documents
