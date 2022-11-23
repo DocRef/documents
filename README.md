@@ -12,3 +12,4 @@
 ## Drugs and Alcohol
 
 - [With You](https://www.wearewithyou.org.uk/services/cornwall-truro/)
+- [NICE Deprescribing Guideline](https://www.nice.org.uk/guidance/ng215)
